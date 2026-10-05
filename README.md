@@ -14,7 +14,6 @@ docker ps
 
 ![docker-build](screenshots/docker-build.png)
 ![docker-container](screenshots/docker-container.png)
-![web-running](screenshots/web-running.png)
 
 ## SAIDA NO CMD
 
