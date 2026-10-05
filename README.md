@@ -1,5 +1,7 @@
 # Docker Web Container
 
+![Demo da aplicação](demoo.jpg)
+
 Projeto desenvolvido para demonstrar a criação e execução de uma aplicação web utilizando Docker e uma imagem baseada em Debian.
 
 ## Comandos utilizados
